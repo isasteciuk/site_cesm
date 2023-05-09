@@ -25,7 +25,7 @@ body{
     }
 
     .escola {
-        background-image: linear-gradient();
+        background-image: linear-gradient(#ffffff);
         display: flex;
         justify-content: left;
         align-items: center;
@@ -49,3 +49,4 @@ body{
         font-size: 25px;
         margin: 20px;
     }
+
